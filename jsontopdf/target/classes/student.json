@@ -1,0 +1,47 @@
+[
+  {
+    "ID": "1",
+    "Name": "Senpai",
+    "Gender": "1",
+    "Class": "32",
+    "Seat": "15",
+    "Club": "0",
+    "Persona": "1",
+    "Crush": "0",
+    "BreastSize": "0",
+    "Strength": "0",
+    "Hairstyle": "1",
+    "Color": "Black",
+    "Eyes": "Black"
+  },
+  {
+    "ID": "2",
+    "Name": "Yui Rio",
+    "Gender": "0",
+    "Class": "11",
+    "Seat": "14",
+    "Club": "1",
+    "Persona": "5",
+    "Crush": "0",
+    "BreastSize": "0.5",
+    "Strength": "0",
+    "Hairstyle": "2",
+    "Color": "Red",
+    "Eyes": "Red"
+  },
+  {
+    "ID": "3",
+    "Name": "Yuna Hina",
+    "Gender": "0",
+    "Class": "12",
+    "Seat": "14",
+    "Club": "1",
+    "Persona": "6",
+    "Crush": "0",
+    "BreastSize": "0.8",
+    "Strength": "0",
+    "Hairstyle": "3",
+    "Color": "Yellow",
+    "Eyes": "Yellow"
+  }
+]
